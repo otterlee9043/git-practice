@@ -19,6 +19,9 @@ let gameLoopId = null;
 
 // new3 주석 추가
 
+// new3 주석 추가
+
+
 const container = document.querySelector("#window");
 const score = document.querySelector("#score");
 const input = document.querySelector("#word-input");
