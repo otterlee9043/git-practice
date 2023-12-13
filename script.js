@@ -134,3 +134,5 @@ function getRandomXPos() {
 function getRandomNumber(min, max) {
   return Math.floor(Math.random() * (max - min) + min);
 }
+
+// 맨 마지막에 주석 추가
