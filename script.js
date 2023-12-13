@@ -8,6 +8,8 @@ const wordList = [
   "추억", "미소", "눈물", "꿈", "햇볕", "비", "눈", "손", "문화", "삶",
   "모자", "휴가", "열쇠", "옷", "하루", "선물",
 ];
+
+// 주석 추가
 let gameLoopId = null;
 
 const container = document.querySelector("#window");
