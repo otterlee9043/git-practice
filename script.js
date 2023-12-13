@@ -13,6 +13,10 @@ const wordList = [
 let gameLoopId = null;
 // 주석 추가
 
+// new2 주석 추가
+
+// new2 주석 추가
+
 const container = document.querySelector("#window");
 const score = document.querySelector("#score");
 const input = document.querySelector("#word-input");
