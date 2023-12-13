@@ -13,8 +13,6 @@ const wordList = [
 let gameLoopId = null;
 // 주석 추가
 
-// main 브랜치의 업데이트
-// main 브랜치 수정
 const container = document.querySelector("#window");
 const score = document.querySelector("#score");
 const input = document.querySelector("#word-input");
