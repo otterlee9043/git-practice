@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="window">
+      <div class="pause hidden"></div>
+      <div class="wrapper">
+        <div class="bottom">
+          <div class="status">
+            <p class="score-container">점수: <span id="score">0</span></p>
+            <p class="fail-count-container">실패: <span id="fail">0</span></p>
+          </div>
+          <input id="word-input" type="text" />
+          <div class="btn-wrapper">
+            <div class="start-btn-wrapper">
+              <button type="button" id="start-button">게임 시작</button>
+            </div>
+            <div class="playing-btn-wrapper hidden">
+              <button type="button" id="restart-button">재시작</button>
+              <br />
+              <button type="button" id="stop-button">정지</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
