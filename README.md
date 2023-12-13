@@ -1,8 +1,3 @@
 # git-practice
-<<<<<<< HEAD
-=======
 
-git 작업을 실습하는 리포지토리!
-
-새 브랜치에서 파일 수정!
->>>>>>> some-new-stuff
+main 브랜치의 README.md 수정
