@@ -12,6 +12,8 @@ const wordList = [
 // 주석 추가
 let gameLoopId = null;
 // 주석 추가
+
+// some-new-stuff의 
 const container = document.querySelector("#window");
 const score = document.querySelector("#score");
 const input = document.querySelector("#word-input");
