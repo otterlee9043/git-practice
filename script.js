@@ -51,6 +51,7 @@ async function dropRain() {
   }, 1000);
 }
 
+// remote에서 주석 추가
 async function dropWord(word, speed) {
   const wordElement = createWord(word, speed);
 
