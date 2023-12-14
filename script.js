@@ -12,7 +12,7 @@ const wordList = [
 // 주석 추가
 let gameLoopId = null;
 
-// new3 주석 추가
+// fetch 테스트!
 
 const container = document.querySelector("#window");
 const score = document.querySelector("#score");
