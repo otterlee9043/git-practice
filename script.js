@@ -14,6 +14,8 @@ let gameLoopId = null;
 
 // fetch 테스트!
 
+// fetch 테스트 2!
+
 const container = document.querySelector("#window");
 const score = document.querySelector("#score");
 const input = document.querySelector("#word-input");
